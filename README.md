@@ -9,8 +9,12 @@ SELECT * FROM layoffs;
 ![image](https://github.com/Kajol0810/Data-Cleaning-Using-MySQL/assets/59485729/1c0e3670-8b79-44fc-85c8-0e32396bf516)
 
 Data Cleaning procedure followed
+
 -- Remove Duplicates
+
 -- Standardize data
+
 -- No values or blank values
+
 -- Remove columns
 
